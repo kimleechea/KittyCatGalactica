@@ -9,4 +9,4 @@ Gameplay begins when each player is assigned to either side of the field of play
 by collecting items. Once a player reached the goal score, that player wins the game. More information can be found in the Player's
 Guide document located in this directory.
 
-<img src="demo.JPG"/>
+<img src="demo"/>
